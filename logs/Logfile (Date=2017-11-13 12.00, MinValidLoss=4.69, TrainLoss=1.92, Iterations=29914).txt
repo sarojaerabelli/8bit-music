@@ -1,0 +1,24 @@
+Training loss=1.920464
+Validation loss=5.245391
+Min Validation loss=4.689908
+Iteration of min validation loss=5150
+
+Ierations trained=1.920464038848877
+Duration=74:41
+Number of training examples=85
+Number of validation examples=100
+Batch size=10
+Training loss=1.920464
+Validation loss=5.245391
+Min Validation loss=4.689908
+Iteration of min validation loss=5150
+
+Ierations trained=1.920464038848877
+Duration=74:41
+Number of training examples=85
+Number of validation examples=100
+Batch size=10
+Learning rate=0.001000
+Number of input (T)=10
+Number of hidden layers=2
+Number of hidden units per year=100
